@@ -20,7 +20,7 @@ Hardware
 
 Science website *[生化环材](https://shhc.tech)* (in Chinese)
 
-Bilibili channel *[生化环材](https://shhc.tech)* (in Chinese) with 20k+ subscribes!
+Bilibili channel *[生化环材](https://space.bilibili.com/32934057)* (in Chinese) with 20k+ subscribes!
 
 <!--
 **RuikangSun/RuikangSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
