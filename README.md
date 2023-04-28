@@ -18,11 +18,13 @@ Hardware -- RasPi, ESP8266, SDR, still learning RISC-V
 
 ## Recent Works
 
-Blog *[孙睿康博客](https://www.sunruikang.com)* (in Chinese)
+A forum about pharmaceutical sciences and drug discovery *[药学论坛](https://www.drugforum.net)* (in Chinese)
 
-Science website *[生化环材](https://shhc.tech)* (in Chinese)
+Personal blog *[孙睿康博客](https://www.sunruikang.com)* (in Chinese)
 
-Bilibili channel *[生化环材](https://space.bilibili.com/32934057)* (in Chinese) with 20k+ subscribes!
+Science blog *[生化环材](https://shhc.tech)* (in Chinese)
+
+Bilibili channel *[生化环材](https://space.bilibili.com/32934057)* (in Chinese) with 30k+ subscribers!
 
 <!--
 **RuikangSun/RuikangSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
