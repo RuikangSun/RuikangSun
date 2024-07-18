@@ -2,13 +2,13 @@
 
 **Hi there!**
 
-I am a college student at Cheeloo College of Medicine, Shandong University. I am studying pharmaceutical sciences here since 2019.
+I am a graduate student at ShanghaiTech University.
 
-I am (probably, at least I think so) a tech otaku. My hobbies include science (chemistry and biology experiments), technology (Coding -- Python and front end, RaspberryPi, HAM radio -- my callsign is BI4LWT) and gaming (Genshin Impact, LOL, CSGO). I am a mad fan of open source, really enjoy replacing commercial softwares with open source one. So I am also learning advanced programming skills to contribute to open source community.
+I am (probably, at least I think so) a tech otaku. My hobbies include science (chemistry and biology experiments), technology (Coding -- Python and front end, RaspberryPi, HAM radio -- my callsign is BI4LWT) and gaming (Genshin Impact, LOL, CS2). I am a mad fan of open source, really enjoy replacing commercial softwares with open source one. So I am also learning advanced programming skills to contribute to open source community.
 
 ## Skills
 
-Computer aided & AI drug design (CADD & AIDD) -- GROMACS, PyMOL,KNIME, RDKit
+Computer aided & AI drug design (CADD & AIDD) -- GROMACS, PyMOL, Autodock vina, RDKit
 
 Amateur Python engineer -- spider, plotting etc (for non production environment)
 
@@ -20,9 +20,9 @@ Hardware -- RasPi, ESP8266, SDR, still learning RISC-V
 
 A forum about pharmaceutical sciences and drug discovery *[药学论坛](https://www.drugforum.net)* (in Chinese)
 
-Personal blog *[孙睿康博客](https://www.sunruikang.com)* (in Chinese)
+Personal blog *[孙睿康博客](https://sunruikang.com)* (in Chinese)
 
-Science blog *[生化环材](https://shhc.tech)* (in Chinese)
+Science blog *[生化环材](https://shenghuahuancai.com)* (in Chinese)
 
 Bilibili channel *[生化环材](https://space.bilibili.com/32934057)* (in Chinese) with 30k+ subscribers!
 
