@@ -2,7 +2,7 @@
 
 **Hi there!**
 
-I am a graduate student at ShanghaiTech University.
+I am a PhD student at ShanghaiTech University.
 
 I am (probably, at least I think so) a tech otaku. My hobbies include science (chemistry and biology experiments), technology (Coding -- Python and front end, RaspberryPi, HAM radio -- my callsign is BI4LWT) and gaming (Genshin Impact, LOL, CS2). I am a mad fan of open source, really enjoy replacing commercial softwares with open source one. So I am also learning advanced programming skills to contribute to open source community.
 
